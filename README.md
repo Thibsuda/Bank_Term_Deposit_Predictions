@@ -1,8 +1,6 @@
 # Bank Term Deposit Predictions📍
 
-[Some title here](Bank-deposit-term-BI-Dashboard.pdf)
-
-
+[Click to see how dashboard in Power BI](Bank-deposit-term-BI-Dashboard.pdf)
 
 
 ## 1. Problem Definition
@@ -19,7 +17,6 @@ I'm using different machine learning models to predict term deposit subscription
 The dataset can also be used for optimizing marketing campaigns. By analyzing the effectiveness of different communication types (contact), number of contacts performed (campaign), duration of contact, and outcome of previous campaigns (poutcome), banks can gain insights into which strategies are most successful in driving subscriptions. This information can help in optimizing future campaign efforts for better results
 
 ## 2. Data📝
-
 
 This dataset, titled Direct Marketing Campaigns for Bank Term Deposits, is a collection of data related to the direct marketing campaigns conducted by a Portuguese banking institution. These campaigns primarily involved phone calls with customers, and the objective was to determine whether or not a customer would subscribe to a term deposit offered by the bank.
 This original data came from Ankush Singal (From Huggingface)
