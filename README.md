@@ -9,7 +9,7 @@
 
 
 ### Customer Segmentation:
-The dataset can be used for customer segmentation analysis. By clustering customers based on their characteristics and behavior, banks can identify different segments of customers with varying propensities to subscribe to term deposits. This information can then be used to tailor marketing campaigns and strategies specific to each segment.
+I'm using different machine learning models to predict term deposit subscriptions from imbalanced data. Models like Logistic Regression, KNN, Random Forest, and LinearSVC are evaluated using AUC-PRC scores on validation and test sets. The dataset also allows for customer segmentation analysis, helping banks tailor marketing campaigns to specific customer segments with varying subscription propensities.
 
 ### Campaign Optimization📌
 The dataset can also be used for optimizing marketing campaigns. By analyzing the effectiveness of different communication types (contact), number of contacts performed (campaign), duration of contact, and outcome of previous campaigns (poutcome), banks can gain insights into which strategies are most successful in driving subscriptions. This information can help in optimizing future campaign efforts for better results
