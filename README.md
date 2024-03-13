@@ -1,7 +1,6 @@
 # Bank Term Deposit Predictions📍
 
-Inline-style: 
-![alt text](https://github.com/Thibsuda/Bank_Term_Deposit_Predictions/blob/main/Bank-deposit-term-BI-Dashboard.pdf "Logo Title Text 1")
+[Some title here](Bank-deposit-term-BI-Dashboard.pdf)
 
 
 
