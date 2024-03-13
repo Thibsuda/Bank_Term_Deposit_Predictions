@@ -1,6 +1,9 @@
 # Bank Term Deposit Predictions📍
 
 
+![Image Description](https://github.com/Thibsuda/Bank_Term_Deposit_Predictions/blob/main/Bank-deposit-term-BI-Dashboard.pdf)
+
+
 ## 1. Problem Definition
 
 ### Predictive Modeling :
