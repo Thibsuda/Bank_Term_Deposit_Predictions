@@ -23,3 +23,7 @@ This original data came from Ankush Singal (From Huggingface)
 https://huggingface.co/datasets/Andyrasika/banking-marketing
 and avaviable from kaggle
 
+## Data Visualization with Power BI pro 
+
+[
+](https://app.powerbi.com/links/BJF-0IDVfD?ctid=b12deb14-8780-4c0d-bc26-245e0eed1d75&pbi_source=linkShare&bookmarkGuid=d8ec467f-a640-412b-b155-4a687266e0ed)https://app.powerbi.com/links/BJF-0IDVfD?ctid=b12deb14-8780-4c0d-bc26-245e0eed1d75&pbi_source=linkShare&bookmarkGuid=d8ec467f-a640-412b-b155-4a687266e0ed
