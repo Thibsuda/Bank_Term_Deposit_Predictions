@@ -1,7 +1,8 @@
 # Bank Term Deposit Predictions📍
 
 
-[PDF File Description](https://github.com/Thibsuda/Bank_Term_Deposit_Predictions/blob/main/Bank-deposit-term-BI-Dashboard.pdf)
+[![PDF File Description](image_url)](https://github.com/Thibsuda/Bank_Term_Deposit_Predictions/blob/main/Bank-deposit-term-BI-Dashboard.pdf)
+
 
 
 
