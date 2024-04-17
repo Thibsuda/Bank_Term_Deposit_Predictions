@@ -6,7 +6,7 @@
 ## 1. Problem Definition
 
 ### Predictive Modeling :
- I'm diving into a thrilling project focused on predicting customer subscriptions to term deposits. Picture this: I'll be analyzing customer data like age, occupation, and marital status to uncover insights that could revolutionize our marketing strategies.
+ I'm diving into a thrilling project focused on predicting customer subscriptions to term deposits.Analyzing customer data like age, occupation, and marital status to uncover insights that could revolutionize our marketing strategies.
 
 
 
